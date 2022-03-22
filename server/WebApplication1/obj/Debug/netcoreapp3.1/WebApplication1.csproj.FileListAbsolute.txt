@@ -1,0 +1,194 @@
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\InterfejsAPIzCRUD\Zadanie1_Just\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\KajWarRepo\RestCSharp\RestCsharpAndReact\server\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
