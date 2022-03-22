@@ -43,8 +43,7 @@ namespace WebApplication1.Controllers
             return CreatedAtAction(
                 nameof(GetProduct),
                 new { id = product.Id },
-                product
-                );
+                product);
         }
 
         [HttpDelete("{id}")]
