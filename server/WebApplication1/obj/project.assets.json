@@ -6145,19 +6145,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kajet\\.nuget\\packages\\": {}
+    "C:\\Users\\Kajetan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KajWarRepo\\RestCSharp\\RestCsharpAndReact\\server\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\KajWarRepo\\RestCsharpAndReact\\server\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\KajWarRepo\\RestCSharp\\RestCsharpAndReact\\server\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\kajet\\.nuget\\packages\\",
-      "outputPath": "C:\\KajWarRepo\\RestCSharp\\RestCsharpAndReact\\server\\WebApplication1\\obj\\",
+      "projectPath": "E:\\KajWarRepo\\RestCsharpAndReact\\server\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\Kajetan\\.nuget\\packages\\",
+      "outputPath": "E:\\KajWarRepo\\RestCsharpAndReact\\server\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kajet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kajetan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6224,7 +6224,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

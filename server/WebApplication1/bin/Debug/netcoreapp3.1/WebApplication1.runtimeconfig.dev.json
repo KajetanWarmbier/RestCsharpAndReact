@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\kajet\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kajet\\.nuget\\packages"
+      "C:\\Users\\Kajetan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kajetan\\.nuget\\packages"
     ]
   }
 }
