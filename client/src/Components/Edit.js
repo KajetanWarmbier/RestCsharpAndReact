@@ -1,11 +1,12 @@
+import { HiPencil } from 'react-icons/hi';
 import { useState, Fragment } from 'react';
 import { Dialog, Transition } from '@headlessui/react';
 import Axios from 'axios';
 
-const AddProduct = (props) => {
+const Edit = (props) => {
   const [isOpen, setIsOpen] = useState(false);
-  const [product, setProduct] = useState('');
-  const [inStock, setInStock] = useState(false);
+  const [inStock, setInStock] = useState(true);
+  const [product, setProduct] = useState(props.productInfo.name);
 
   const openModal = () => {
     setIsOpen(true);
@@ -15,15 +16,19 @@ const AddProduct = (props) => {
     setIsOpen(false);
   };
 
-  const postProduct = () => {
-    const dane = {
+  const putProduct = () => {
+    const data = {
+      id: props.productInfo.id,
       inStock: inStock,
       name: product,
     };
 
-    Axios.post('https://localhost:44302/api/products/', dane)
+    Axios.put(
+      `https://localhost:44302/api/products/${props.productInfo.id}`,
+      data
+    )
       .then((response) => {
-        props.updateProduct(response.data);
+        props.putProduct(data);
       })
       .catch((error) => {
         alert(error);
@@ -33,16 +38,11 @@ const AddProduct = (props) => {
   };
 
   return (
-    <div>
-      <div className='w-fit'>
-        <button
-          className='flex mb-5 bg-green-300 hover:bg-green-400 rounded-full py-2 px-3'
-          onClick={openModal}
-        >
-          <h1 className='font-medium text-lg text-green-700'>Add Product</h1>
-        </button>
-      </div>
-
+    <>
+      <HiPencil
+        className='text-2xl hover:text-green-600 cursor-pointer'
+        onClick={openModal}
+      />
       <Transition appear show={isOpen} as={Fragment}>
         <Dialog
           as='div'
@@ -83,8 +83,11 @@ const AddProduct = (props) => {
                   as='h3'
                   className='text-lg font-medium leading-6 text-gray-900 text-center'
                 >
-                  Add Product
+                  Edit Product
                 </Dialog.Title>
+
+                {/* checkboxe -> add default */}
+
                 <div className='mt-4'>
                   <label className='block'>
                     <span className='text-gray-700'>In stock:</span>
@@ -121,7 +124,7 @@ const AddProduct = (props) => {
                     type='text'
                     name='product'
                     className='mt-1 block w-full p-1 border-2 border-gray-500 rounded-md'
-                    placeholder='product name'
+                    value={product}
                     onChange={(event) => {
                       setProduct(event.target.value);
                     }}
@@ -132,9 +135,9 @@ const AddProduct = (props) => {
                   <button
                     type='button'
                     className='inline-flex justify-center px-2 py-1 text-md text-blue-600 font-medium bg-blue-200 border border-transparent rounded-full hover:bg-blue-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-blue-500'
-                    onClick={postProduct}
+                    onClick={putProduct}
                   >
-                    Add
+                    Update
                   </button>
                   <button
                     type='button'
@@ -148,9 +151,9 @@ const AddProduct = (props) => {
             </Transition.Child>
           </div>
         </Dialog>
-      </Transition>
-    </div>
+      </Transition>{' '}
+    </>
   );
 };
 
-export default AddProduct;
+export default Edit;

@@ -1,11 +1,11 @@
-import Navbar from "./Components/Navbar";
-import ProductsList from "./Components/ProductsList";
+import Navbar from './Components/Navbar';
+import ProductsList from './Components/ProductsList';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Navbar />
-      <div className="flex min-w-max h-[100vh] m-5">
+      <div className='min-w-full p-5'>
         <ProductsList />
       </div>
     </div>
